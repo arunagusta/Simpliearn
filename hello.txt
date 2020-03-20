@@ -1,2 +1,6 @@
 Hi this is a first line of the code
+<<<<<<< HEAD
 trying to add from the local repo to check if it works
+=======
+Downloaded the clone and now adding a new code by new developer
+>>>>>>> ba084529ef4389fb1939a95497c49a2d612b487f
